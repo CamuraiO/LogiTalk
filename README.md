@@ -1,0 +1,2 @@
+# LogiTalk
+Customtkinter + socket
